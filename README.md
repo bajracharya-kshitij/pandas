@@ -45,7 +45,7 @@ You are given the heights (in inch) and weights (in lbs) of 5 people as shown in
 
 It is later found that the table actually misses entries for persons F and G whose heights are 65 inch and 60 inch respectively and the weight for F is 121 lbs, but data for G's weight is missing. Also, values for all the heights is found to be 5 inch less than it should have been, whereas values for all the weights is found to be 5 lbs more than it should have been. Find the correct Body Mass Index (BMI) for each person, if possible.
 
-We will solve this problem using both Series and pandas.
+We will solve this problem using both Series and DataFrame.
 
 <h3>Problem 2</h3>
 
@@ -62,4 +62,4 @@ Using the dataset, find <br/>
 (f) entries when max speed is greater than 135 or fuel economy is less than 8, and <br/>
 (g) details for the entries by day of week.
 
-We'll be using pandas to solve this problem.
+We'll be using DataFrame to solve this problem.
