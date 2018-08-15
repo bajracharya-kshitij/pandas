@@ -53,13 +53,13 @@ We have a <a href="https://openmv.net/info/travel-times">dataset</a> that contai
 
 A driver uses an app to track GPS coordinates as he drives to work and back each day. The app collects the location and elevation data. Data for about 200 trips are summarized in this data set.
 
-Using the dataset, find 
-(a) the details for first, last and 10th entry, 
-(b) the details for each day, 
-(c) entries when total distance travelled in a day is greater than 90 but less than 100, 
-(d) the distance and fuel economy for a single row from (c), 
-(e) entries for Fridays when the average moving speed is greater than 90, 
-(f) entries when max speed is greater than 135 or fuel economy is less than 8, and 
+Using the dataset, find <br/>
+(a) the details for first, last and 10th entry, <br/>
+(b) the details for each day, <br/>
+(c) entries when total distance travelled in a day is greater than 90 but less than 100, <br/>
+(d) the distance and fuel economy for a single row from (c), <br/>
+(e) entries for Fridays when the average moving speed is greater than 90, <br/>
+(f) entries when max speed is greater than 135 or fuel economy is less than 8, and <br/>
 (g) details for the entries by day of week.
 
 We'll be using pandas to solve this problem.
